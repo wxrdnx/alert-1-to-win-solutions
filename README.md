@@ -1,7 +1,5 @@
 # alert-1-to-win-solutions
 
-> Although I am a pwn and reverse CTF player, I recently found web security interesting, so I went on [alert 1 to win](https://alf.nu/alert1) to sharpen by XSS techniques.
-
 ## Warmup
 
 ### Problem
